@@ -31,8 +31,8 @@ def extract_wisdom_from_markdown(input_folder, output_folder):
 
 if __name__ == "__main__":
     # Set paths
-    input_folder = "/Users/pete/Documents/Projects/Evernote_Export/notes"  # Folder containing Markdown files
-    output_folder = "/Users/pete/Documents/Projects/processed_notes/output"  # Folder to save processed notes
+    input_folder = "/notes"  # Folder containing Markdown files
+    output_folder = "/processed_notes/output"  # Folder to save processed notes
 
     # Run the extraction process
     extract_wisdom_from_markdown(input_folder, output_folder)
