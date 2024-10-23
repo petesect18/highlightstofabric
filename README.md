@@ -27,4 +27,4 @@ Utilizes a command-line tool to process Markdown files and extract insights into
 ## Resources
 https://github.com/wormi4ok/evernote2md
 https://github.com/danielmiessler/fabric 
-[readwise.io](https://readwise.io)
+https://readwise.io
